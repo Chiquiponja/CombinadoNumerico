@@ -1,0 +1,7 @@
+C:\Users\prisc\source\repos\Coleccion\Coleccion\bin\Debug\Coleccion.exe.config
+C:\Users\prisc\source\repos\Coleccion\Coleccion\bin\Debug\Coleccion.exe
+C:\Users\prisc\source\repos\Coleccion\Coleccion\bin\Debug\Coleccion.pdb
+C:\Users\prisc\source\repos\Coleccion\Coleccion\obj\Debug\Coleccion.csprojAssemblyReference.cache
+C:\Users\prisc\source\repos\Coleccion\Coleccion\obj\Debug\Coleccion.csproj.CoreCompileInputs.cache
+C:\Users\prisc\source\repos\Coleccion\Coleccion\obj\Debug\Coleccion.exe
+C:\Users\prisc\source\repos\Coleccion\Coleccion\obj\Debug\Coleccion.pdb
